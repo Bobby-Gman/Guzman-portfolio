@@ -1,3 +1,8 @@
-title: My Jekyll Site
-description: This is my Jekyll site deployed with GitHub Pages.
+title: Robert Guzman's Portfolio
+description: A professional portfolio showcasing my work in game development, programming, and digital art.
 theme: minima
+
+# Social links
+email: ro305529@ucf.edu
+linkedin: https://www.linkedin.com/in/robert-guzman-designer/
+github: https://github.com/Bobby-Gman

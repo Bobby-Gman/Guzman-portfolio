@@ -1,4 +1,6 @@
-# Guzman-portfolio
+# Robert Guzman's Portfolio
+
+Welcome to my portfolio! This repository showcases my diverse range of skills and projects in **game development**, **programming**, and **digital art**. Explore the sections below to discover my work in **Arduino**, **Ink**, **Python**, **Unity**, **concept art**, and **3D art**. Each project demonstrates my commitment to creativity, technical excellence, and problem-solving.
 
 ## 🎯 **About Me**
 I am an artist and programmer with a passion for creating fun and immersive experiences. My work spans:

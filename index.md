@@ -13,15 +13,15 @@ This repository showcases my diverse range of skills and projects in **game deve
 
 ---
 
-## About Me
+<div id="about-me">
+  ## About Me
 
-Hi there! My name is **Robert Guzman**, and I am passionate about blending creativity with technology to bring ideas to life. With experience in **game development**, **programming**, and **digital art**, I enjoy exploring new tools and techniques to solve complex problems and tell compelling stories through my projects.
+  Hi there! My name is **Robert Guzman**, and I am passionate about blending creativity with technology to bring ideas to life. With experience in **game development**, **programming**, and **digital art**, I enjoy exploring new tools and techniques to solve complex problems and tell compelling stories through my projects.
 
-Here are a few quick highlights about me:
-- 🎮 Game Developer with a focus on interactive storytelling and immersive experiences.
-- 💻 Programmer skilled in **Python**, **C#**, and **Arduino**.
-- 🎨 Digital Artist specializing in **concept art** and **3D modeling**.
+  Here are a few quick highlights about me:
+  - 🎮 Game Developer with a focus on interactive storytelling and immersive experiences.
+  - 💻 Programmer skilled in **Python**, **C#**, and **Arduino**.
+  - 🎨 Digital Artist specializing in **concept art** and **3D modeling**.
 
-When I’m not working on projects, you can find me experimenting with new technologies, sketching ideas, or playing games for inspiration. Feel free to explore my work and reach out if you’d like to collaborate or learn more!
-
----
+  When I’m not working on projects, you can find me experimenting with new technologies, sketching ideas, or playing games for inspiration. Feel free to explore my work and reach out if you’d like to collaborate or learn more!
+</div>

@@ -2,7 +2,8 @@ title: Robert Guzman's Portfolio
 description: A professional portfolio showcasing my work in game development, programming, and digital art.
 theme: minima
 
+#Social links
 links:
-  - email: ro305529@ucf.edu
-  - linkedin: https://www.linkedin.com/in/robert-guzman-designer/
-  - github: https://github.com/Bobby-Gman
+email: ro305529@ucf.edu
+linkedin: https://www.linkedin.com/in/robert-guzman-designer/
+github: https://github.com/Bobby-Gman

@@ -72,6 +72,14 @@ Scripts for Slip Away Slime, a puzzle-platformer featuring a charming slime char
 - [Script 1](unity/Slip-Away-Slime/PhaseAbility.cs) -
 - [Script 2](unity/Slip-Away-Slime/VehicleMover.cs) -
 
+You can browse the full Unity folder [here](unity/).
+
 ---
 
-You can browse the full Unity folder [here](unity/).
+## Ink Interactive Story
+
+Dive into my interactive story created using [Ink](https://www.inklestudios.com/ink/), a powerful language for interactive narratives.
+
+[![View the Interactive Story](https://img.shields.io/badge/View-Interactive%20Story-blue?style=for-the-badge)](ink/index.html)
+
+- [Click here to browse the story's folder](ink/)

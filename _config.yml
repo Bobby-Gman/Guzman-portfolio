@@ -2,7 +2,7 @@ title: Robert Guzman's Portfolio
 description: A professional portfolio showcasing my work in game development, programming, and digital art.
 
 #Site settings
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 baseurl:
 url: https://bobby-gman.github.io/Guzman-portfolio/
 

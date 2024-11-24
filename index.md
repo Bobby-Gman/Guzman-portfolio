@@ -92,3 +92,18 @@ Explore my web design work, showcasing creative and functional websites.
 
 [![View Web Design Projects](https://img.shields.io/badge/View-Web%20Design%20Projects-green?style=for-the-badge)](web-design/index.html)
 
+---
+
+## Concept Art Portfolio
+
+Explore my collection of concept art, showcasing creativity and visual storytelling through unique designs and illustrations.
+
+[![View Concept Art Portfolio](https://img.shields.io/badge/View-Concept%20Art%20Portfolio-purple?style=for-the-badge)](concept-art/)
+
+---
+
+## Arduino Projects
+
+Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
+
+[![View Arduino Projects](https://img.shields.io/badge/View-Arduino%20Projects-blue?style=for-the-badge)](arduino/)

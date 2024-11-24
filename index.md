@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="/_assets/_styles/main.css">
+
 # Welcome to My Portfolio!
 
 ![Profile Headshot](_assets/_images/Headshot.jpg)

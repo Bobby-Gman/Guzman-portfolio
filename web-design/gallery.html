@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <meta name="description" content="Gallery of Robert Guzman's Artwork. Explore and purchase unique and creative artwork by Robert Guzman.">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <link rel="stylesheet" href="styles2.css"> 
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <img src="https://cdnb.artstation.com/p/users/avatars/007/587/243/large/09074ba85e762b462f5d55896921cd85.jpg?1696182072" width="30" height="30" alt="Logo" class="rounded-circle">
+
+        <div class="navbar-nav">
+            <a class="nav-item nav-link" href="index.html">Home</a>
+            <a class="nav-item nav-link" href="#artwork1">Artwork 1</a>
+            <a class="nav-item nav-link" href="#artwork2">Artwork 2</a>
+            <a class="nav-item nav-link" href="#artwork3">Artwork 3</a>
+            <a class="nav-item nav-link" href="#artwork4">Artwork 4</a>
+            <a class="nav-item nav-link" href="#artwork5">Artwork 5</a>
+            <a class="nav-item nav-link" href="#artwork6">Artwork 6</a>
+        </div>
+
+        <form class="form-inline ml-auto">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="ShoppingCart.html"><i class="fas fa-shopping-cart"></i></a>
+            </li>
+        </ul>
+    </nav>
+
+    <div id="artwork1" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdna.artstation.com/p/assets/images/images/067/992/178/large/robert-guzman-img-20210115-105148-707.jpg?1696730504" alt="Artwork 1">
+        </div>
+        <div class="description">
+            <p>A chilling blue-toned drawing of two grotesque figures amidst a forest setting.The meticulous shading and detailing imbue the scene with an unsettling atmosphere.</p>
+        </div>
+        <div class="price">
+            $50
+            <div class="add-to-cart" onclick="addToCart('Artwork 1')">Add to Cart</div>
+        </div>
+    </div>
+
+    <div id="artwork2" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdnb.artstation.com/p/assets/images/images/067/763/013/large/robert-guzman-art1.jpg?1696185303" alt="Artwork 2">
+        </div>
+        <div class="description">
+            <p>An intricate monochromatic artwork with a blend of mythical and surreal elements. </p>
+        </div>
+        <div class="price">
+            $80
+            <div class="add-to-cart" onclick="addToCart('Artwork 2')">Add to Cart</div>
+        </div>
+    </div>
+
+    <div id="artwork3" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdna.artstation.com/p/assets/images/images/067/763/016/large/robert-guzman-art2.jpg?1696185308" alt="Artwork 3">
+        </div>
+        <div class="description">
+            <p>A stark black and white artistic representation of a skeletal figure</p>
+        </div>
+        <div class="price">
+            $60
+            <div class="add-to-cart" onclick="addToCart('Artwork 3')">Add to Cart</div>
+        </div>
+    </div>
+
+    <div id="artwork4" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdnb.artstation.com/p/assets/images/images/067/763/017/large/robert-guzman-art3.jpg?1696185314" alt="Artwork 4">
+        </div>
+        <div class="description">
+            <p>A detailed, hand-drawn sketch of a human skull is displayed against a warm orange background.</p>
+        </div>
+        <div class="price">
+            $70
+            <div class="add-to-cart" onclick="addToCart('Artwork 4')">Add to Cart</div>
+        </div>
+    </div>
+
+    <div id="artwork5" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdnb.artstation.com/p/assets/images/images/067/763/019/large/robert-guzman-art4.jpg?1696185319" alt="Artwork 5">
+        </div>
+        <div class="description">
+            <p>A colorful, side-view drawing of a skull is positioned next to a box of vibrant pastel chalks against a white background</p>
+        </div>
+        <div class="price">
+            $80
+            <div class="add-to-cart" onclick="addToCart('Artwork 5')">Add to Cart</div>
+        </div>
+    </div>
+
+    <div id="artwork6" class="artwork-item">
+        <div class="artwork-image">
+            <img src="https://cdnb.artstation.com/p/assets/images/images/067/992/151/large/robert-guzman-adventure-time-litch-poster.jpg?1696730373" alt="Artwork 6">
+        </div>
+        <div class="description">
+            <p>A dark and stylized rendition of the "Adventure Time" logo with the large, eerie skeletal face of the Lich below it.</p>
+        </div>
+        <div class="price">
+            $90
+            <div class="add-to-cart" onclick="addToCart('Artwork 6')">Add to Cart</div>
+        </div>
+    </div>
+
+    <script>
+        function addToCart(item) {
+            alert(item + ' has been added to your cart.');
+        }
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.0.7/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+</body>
+
+</html>

@@ -5,9 +5,7 @@ img {
 
 #about-me {
     padding: 20px;
-    margin: 20px auto;
-    background-color: #f0f8ff; /* Light blue */
+    background-color: #f9f9f9;
     border-radius: 10px;
-    max-width: 800px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }

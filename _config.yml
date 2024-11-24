@@ -2,5 +2,11 @@ title: Robert Guzman's Portfolio
 description: A professional portfolio showcasing my work in game development, programming, and digital art.
 theme: minima
 
+# Site configuration
+sass:
+  style: compressed
+include:
+  - _assets/_styles
+
 #Social links
 email: ro305529@ucf.edu

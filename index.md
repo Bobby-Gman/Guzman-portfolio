@@ -35,3 +35,43 @@ I have a collection of Python scripts that showcase my programming skills and pr
 - [Script 3](python/heart.py) -
 
 You can browse the full folder of scripts [here](python/).
+
+---
+
+## Unity Scripts
+
+I’ve worked on a variety of Unity projects, each showcasing unique gameplay mechanics, creative problem-solving, and scripting expertise. Below are some of my projects, with links to their respective scripts and descriptions:
+
+### [Ability Test](unity/Ability-Test)
+Scripts for a game focused on testing and showcasing various player abilities and mechanics.
+
+- [Script 1](unity/Ability-Test/StunEffect.cs) -
+- [Script 2](unity/Ability-Test/HealthSystem.cs) -
+
+### [PackMaster](unity/PackMaster)
+Scripts for PackMaster, a game designed around strategic gameplay mechanics.
+
+- [Script 1](unity/PackMaster/AudioManager.cs) -
+- [Script 2](unity/PackMaster/SplashScreenController.cs) -
+
+### [Rage Rooster](unity/RageRooster)
+Scripts for Rage Rooster, a humorous and chaotic game with unique challenges.
+
+- [Script 1](unity/RageRooster/AnimationAndMovementController.cs) -
+- [Script 2](unity/RageRooster/PauseMenu.cs) -
+
+### [Save Her](unity/Save-Her)
+Scripts for Save Her, a narrative-driven game emphasizing emotional storytelling and gameplay.
+
+- [Script 1](unity/Save-Her/LootTable.cs) -
+- [Script 2](unity/Save-Her/TreasureChest.cs) -
+
+### [Slip Away Slime](unity/Slip-Away-Slime)
+Scripts for Slip Away Slime, a puzzle-platformer featuring a charming slime character.
+
+- [Script 1](unity/Slip-Away-Slime/PhaseAbility.cs) -
+- [Script 2](unity/Slip-Away-Slime/VehicleMover.cs) -
+
+---
+
+You can browse the full Unity folder [here](unity/).

@@ -83,3 +83,12 @@ Dive into my interactive story created using [Ink](https://www.inklestudios.com/
 [![View the Interactive Story](https://img.shields.io/badge/View-Interactive%20Story-blue?style=for-the-badge)](ink/index.html)
 
 - [Click here to browse the story's folder](ink/)
+
+---
+
+## Web Design Projects
+
+Explore my web design work, showcasing creative and functional websites.
+
+[![View Web Design Projects](https://img.shields.io/badge/View-Web%20Design%20Projects-green?style=for-the-badge)](web-design/index.html)
+

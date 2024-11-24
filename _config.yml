@@ -11,6 +11,13 @@ email: ro305529@ucf.edu
 linkedin: https://www.linkedin.com/in/robert-guzman-designer/
 github: https://github.com/Bobby-Gman
 
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
 markdown: kramdown
 kramdown:
   input: GFM

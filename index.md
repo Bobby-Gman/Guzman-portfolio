@@ -98,7 +98,7 @@ Explore my web design work, showcasing creative and functional websites.
 
 Explore my collection of concept art, showcasing creativity and visual storytelling through unique designs and illustrations.
 
-You can browse the full Unity folder [here](concept-art/).
+You can browse the full Art folder [here](concept-art/).
 
 ---
 
@@ -106,4 +106,4 @@ You can browse the full Unity folder [here](concept-art/).
 
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
-You can browse the full Unity folder [here](arduino/).
+You can browse the full Arduino folder [here](arduino/).

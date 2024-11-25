@@ -98,7 +98,7 @@ Explore my web design work, showcasing creative and functional websites.
 
 Explore my collection of concept art, showcasing creativity and visual storytelling through unique designs and illustrations.
 
-[![View Concept Art Portfolio](https://img.shields.io/badge/View-Concept%20Art%20Portfolio-purple?style=for-the-badge)](concept-art/)
+You can browse the full Unity folder [here](concept-art/).
 
 ---
 
@@ -106,4 +106,4 @@ Explore my collection of concept art, showcasing creativity and visual storytell
 
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
-[![View Arduino Projects](https://img.shields.io/badge/View-Arduino%20Projects-blue?style=for-the-badge)](arduino/)
+You can browse the full Unity folder [here](arduino/).

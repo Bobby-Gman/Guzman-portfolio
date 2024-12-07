@@ -1,23 +1,24 @@
-
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #e9ecef;
     color: #333;
 }
 
 h1, h2, h3 {
-    color: #444;
+    color: #343a40;
 }
 
 a {
-    color: #1e90ff;
+    color: #007BFF;
     text-decoration: none;
+    transition: color 0.3s ease;
 }
 
 a:hover {
+    color: #0056b3;
     text-decoration: underline;
 }
 
@@ -33,11 +34,12 @@ img {
 }
 
 header {
-    background: #333;
+    background: #343a40;
     color: #fff;
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #77aaff 3px solid;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 header a {
@@ -74,6 +76,35 @@ footer {
     padding: 20px;
     margin-top: 20px;
     color: #fff;
-    background-color: #333;
+    background-color: #343a40;
     text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    background-color: white;
+    margin: 1.5em 0;
+    padding: 2em;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 0.75em 1.5em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
 }

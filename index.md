@@ -34,7 +34,7 @@ I have a collection of Python scripts that showcase my programming skills and pr
 - [Script 2](python/gradelist.py) - A script to manage and analyze student grades.
 - [Script 3](python/heart.py) - A script to simulate a heart rate monitor.
 
-[![Browse Python Scripts](https://img.shields.io/badge/Browse-Python%20Scripts-blue?style=for-the-badge)](python/)
+[![Browse Python Scripts](https://img.shields.io/badge/Browse-Python%20Scripts-purple?style=for-the-badge)](python/)
 
 ---
 
@@ -82,8 +82,6 @@ Dive into my interactive story created using [Ink](https://www.inklestudios.com/
 
 [![View the Interactive Story](https://img.shields.io/badge/View-Interactive%20Story-blue?style=for-the-badge)](ink/index.html)
 
-[![Browse Ink Story](https://img.shields.io/badge/Browse-Ink%20Story-orange?style=for-the-badge)](ink/)
-
 ---
 
 ## Web Design Projects
@@ -106,7 +104,7 @@ Explore my collection of concept art, showcasing creativity and visual storytell
 
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
-[![Browse Arduino Projects](https://img.shields.io/badge/Browse-Arduino%20Projects-green?style=for-the-badge)](arduino/)
+[![Browse Arduino Projects](https://img.shields.io/badge/Browse-Arduino%20Projects-orange?style=for-the-badge)](arduino/)
 
 ---
 

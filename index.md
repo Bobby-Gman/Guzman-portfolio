@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<link rel="stylesheet" href="/_assets/_styles/main.css">
+<link rel="stylesheet" href="styles/main.css">
 
 # Welcome to My Portfolio!
 

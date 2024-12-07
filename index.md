@@ -107,3 +107,13 @@ You can browse the full Art folder [here](concept-art).
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
 You can browse the full Arduino folder [here](arduino).
+
+---
+
+## Skills
+- **Programming Languages:** List of languages.
+- **Frameworks:** List of frameworks.
+- **Tools:** List of tools.
+
+## Contact
+Feel free to reach out to me via [Email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).

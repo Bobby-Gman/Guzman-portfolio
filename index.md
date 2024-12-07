@@ -34,7 +34,7 @@ I have a collection of Python scripts that showcase my programming skills and pr
 - [Script 2](python/gradelist.py) - A script to manage and analyze student grades.
 - [Script 3](python/heart.py) - A script to simulate a heart rate monitor.
 
-You can browse the full folder of scripts [here](python/).
+[![Browse Python Scripts](https://img.shields.io/badge/Browse-Python%20Scripts-blue?style=for-the-badge)](python/)
 
 ---
 
@@ -72,7 +72,7 @@ Scripts for Slip Away Slime, a puzzle-platformer featuring a charming slime char
 - [Script 1](unity/Slip-Away-Slime/PhaseAbility.cs) - Script for the slime's phase ability.
 - [Script 2](unity/Slip-Away-Slime/VehicleMover.cs) - Script for moving vehicles.
 
-You can browse the full Unity folder [here](unity/).
+[![Browse Unity Scripts](https://img.shields.io/badge/Browse-Unity%20Scripts-red?style=for-the-badge)](unity/)
 
 ---
 
@@ -82,7 +82,7 @@ Dive into my interactive story created using [Ink](https://www.inklestudios.com/
 
 [![View the Interactive Story](https://img.shields.io/badge/View-Interactive%20Story-blue?style=for-the-badge)](ink/index.html)
 
-- [Click here to browse the story's folder](ink/)
+[![Browse Ink Story](https://img.shields.io/badge/Browse-Ink%20Story-orange?style=for-the-badge)](ink/)
 
 ---
 
@@ -98,7 +98,7 @@ Explore my web design work, showcasing creative and functional websites.
 
 Explore my collection of concept art, showcasing creativity and visual storytelling through unique designs and illustrations.
 
-You can browse the full Art folder [here](concept-art).
+[![Browse Concept Art](https://img.shields.io/badge/Browse-Concept%20Art-yellow?style=for-the-badge)](concept-art/)
 
 ---
 
@@ -106,14 +106,14 @@ You can browse the full Art folder [here](concept-art).
 
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
-You can browse the full Arduino folder [here](arduino).
+[![Browse Arduino Projects](https://img.shields.io/badge/Browse-Arduino%20Projects-green?style=for-the-badge)](arduino/)
 
 ---
 
 ## Skills
-- **Programming Languages:** List of languages.
-- **Frameworks:** List of frameworks.
-- **Tools:** List of tools.
+- **Programming Languages:** Python, C#, Arduino
+- **Frameworks:** Unity, Ink
+- **Tools:** Arduino IDE, Unity Editor, Visual Studio Code
 
 ## Contact
-Feel free to reach out to me via [Email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me via [Email](mailto:ro305529@ucf.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/robert-guzman-designer/).

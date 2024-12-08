@@ -1,33 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sumo Bot Testing</title>
-    <link rel="stylesheet" href="arduino_style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="arduino_style.css" />
+  </head>
+  <body>
     <header>
-        <h1>Sumo Bot Testing</h1>
-        <button onclick="location.href='../home.html'">Return to Home</button>
+      <h1>Sumo Bot Testing</h1>
+      <button onclick="location.href='../index.html'">Return to Home</button>
     </header>
     <main>
-        <section>
-            <h2>Introduction</h2>
-            <p>This project demonstrates the testing of a Sumo Bot using Arduino. The code reads analog inputs from sensors and prints both raw and stable values to the Serial Monitor.</p>
-        </section>
-        <section>
-            <h2>Code Explanation</h2>
-            <p>The <code>Sumo_bot_testing.ino</code> file contains the following key parts:</p>
-            <ul>
-                <li><strong>Setup:</strong> Initializes the serial communication and sets the pin modes for the sensors.</li>
-                <li><strong>Loop:</strong> Continuously reads sensor values and prints them to the Serial Monitor.</li>
-                <li><strong>readStableInput:</strong> Reads a stable value from a sensor by comparing two consecutive readings.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Code</h2>
-            <pre><code>
+      <section>
+        <h2>Introduction</h2>
+        <p>
+          This project demonstrates the testing of a Sumo Bot using Arduino. The
+          code reads analog inputs from sensors and prints both raw and stable
+          values to the Serial Monitor.
+        </p>
+      </section>
+      <section>
+        <h2>Code Explanation</h2>
+        <p>
+          The <code>Sumo_bot_testing.ino</code> file contains the following key
+          parts:
+        </p>
+        <ul>
+          <li>
+            <strong>Setup:</strong> Initializes the serial communication and
+            sets the pin modes for the sensors.
+          </li>
+          <li>
+            <strong>Loop:</strong> Continuously reads sensor values and prints
+            them to the Serial Monitor.
+          </li>
+          <li>
+            <strong>readStableInput:</strong> Reads a stable value from a sensor
+            by comparing two consecutive readings.
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Code</h2>
+        <pre><code>
 void setup() {
   Serial.begin(9600); 
   pinMode(A0, INPUT); 
@@ -81,10 +97,10 @@ int readStableInput(int pin) {
   }
 }
             </code></pre>
-        </section>
+      </section>
     </main>
     <footer>
-        <p>&copy; 2023 Sumo Bot Testing</p>
+      <p>&copy; 2023 Sumo Bot Testing</p>
     </footer>
-</body>
+  </body>
 </html>

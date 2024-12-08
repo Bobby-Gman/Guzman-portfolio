@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/styles/main.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Robert Guzman's Portfolio</h1>
+      <nav>
+        <ul>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#python-projects">Python Projects</a></li>
+          <li><a href="#unity-scripts">Unity Scripts</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>{{ content }}</main>
+
+    <footer>
+      <div class="site-links">
+        {% for file in site.static_files %}
+        <a href="{{ file.path }}">{{ file.name }}</a>
+        {% endfor %}
+      </div>
+      <p>© 2024 Robert Guzman. All rights reserved.</p>
+    </footer>
+  </body>
+</html>

@@ -72,32 +72,32 @@ title: Home
     <div class="project">
       <h3>Python</h3>
       <p>Scripts and tools written in Python.</p>
-      <a href="python/">View Folder</a>
+      <a href="python/python_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Unity</h3>
       <p>Gameplay mechanics and Unity scripts.</p>
-      <a href="unity/">View Folder</a>
+      <a href="unity/unity_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Concept Art</h3>
       <p>Original digital art and design concepts.</p>
-      <a href="concept-art/">View Folder</a>
+      <a href="concept-art/concept_art_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Arduino</h3>
       <p>Hardware projects and Arduino code.</p>
-      <a href="arduino/">View Folder</a>
+      <a href="arduino/arduino_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Ink</h3>
       <p>Interactive narrative projects using Ink scripting.</p>
-      <a href="ink/">View Folder</a>
+      <a href="ink/hos_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Web Design</h3>
       <p>HTML, CSS, and JavaScript web design projects.</p>
-      <a href="web-design/">View Folder</a>
+      <a href="web-design/web_home.html">View Folder</a>
     </div>
   </div>
 </section>

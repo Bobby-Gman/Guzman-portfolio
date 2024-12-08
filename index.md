@@ -90,14 +90,14 @@ title: Home
       <a href="/Guzman-portfolio/arduino/arduino_home.html">View Folder</a>
     </div>
     <div class="project">
-      <h3>Ink</h>
+      <h3>Ink</h3>
       <p>Interactive narrative projects using Ink scripting.</p>
       <a href="/Guzman-portfolio/ink/hos_home.html">View Folder</a>
     </div>
     <div class="project">
-      <h3>Web Design</h>
+      <h3>Web Design</h3>
       <p>HTML, CSS, and JavaScript web design projects.</p>
-      <a href="Guzman-portfolio/web-design/web_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/web-design/web_home.html">View Folder</a>
     </div>
   </div>
 </section>

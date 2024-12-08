@@ -34,7 +34,7 @@ I have a collection of Python scripts that showcase my programming skills and pr
 - [Script 2](python/gradelist.py) - A script to manage and analyze student grades.
 - [Script 3](python/heart.py) - A script to simulate a heart rate monitor.
 
-[![Browse Python Scripts](python/)](./python/)
+[![Browse Python Scripts](https://img.shields.io/badge/Browse-Python%20Scripts-purple?style=for-the-badge)](python/python_home.html)
 
 ---
 
@@ -72,7 +72,7 @@ Scripts for Slip Away Slime, a puzzle-platformer featuring a charming slime char
 - [Script 1](unity/Slip-Away-Slime/PhaseAbility.cs) - Script for the slime's phase ability.
 - [Script 2](unity/Slip-Away-Slime/VehicleMover.cs) - Script for moving vehicles.
 
-[![Browse Unity Scripts](unity/)](./unity/)
+[![Browse Unity Scripts](https://img.shields.io/badge/Browse-Unity%20Scripts-red?style=for-the-badge)](unity/unity_home.html)
 
 ---
 
@@ -80,7 +80,7 @@ Scripts for Slip Away Slime, a puzzle-platformer featuring a charming slime char
 
 Dive into my interactive story created using [Ink](https://www.inklestudios.com/ink/), a powerful language for interactive narratives.
 
-[![View the Interactive Story](ink/index.html)](./ink/index.html)
+[![View the Interactive Story](https://img.shields.io/badge/View-Interactive%20Story-blue?style=for-the-badge)](ink/hos_home.html)
 
 ---
 
@@ -88,7 +88,7 @@ Dive into my interactive story created using [Ink](https://www.inklestudios.com/
 
 Explore my web design work, showcasing creative and functional websites.
 
-[![View Web Design Projects](web-design/index.html)](./web-design/index.html)
+[![View Web Design Projects](https://img.shields.io/badge/View-Web%20Design%20Projects-green?style=for-the-badge)](web-design/web_home.html)
 
 ---
 
@@ -96,7 +96,7 @@ Explore my web design work, showcasing creative and functional websites.
 
 Explore my collection of concept art, showcasing creativity and visual storytelling through unique designs and illustrations.
 
-[![Browse Concept Art](concept-art/)](./concept-art/)
+[![Browse Concept Art](https://img.shields.io/badge/Browse-Concept%20Art-yellow?style=for-the-badge)](concept-art/concept_art_home.html)
 
 ---
 
@@ -104,7 +104,7 @@ Explore my collection of concept art, showcasing creativity and visual storytell
 
 Explore my collection of Arduino projects, demonstrating hands-on electronics and programming skills.
 
-[![Browse Arduino Projects](arduino/)](./arduino/)
+[![Browse Arduino Projects](https://img.shields.io/badge/Browse-Arduino%20Projects-orange?style=for-the-badge)](arduino/arduino_home.html)
 
 ---
 

@@ -72,7 +72,7 @@ title: Home
     <div class="project">
       <h3>Python</h3>
       <p>Scripts and tools written in Python.</p>
-      <a href="./python/python_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/python/python_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Unity</h3>

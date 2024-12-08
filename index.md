@@ -72,7 +72,7 @@ title: Home
     <div class="project">
       <h3>Python</h3>
       <p>Scripts and tools written in Python.</p>
-      <a href="python_home.html">View Folder</a>
+      <a href="python/python_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Unity</h3>
@@ -90,12 +90,12 @@ title: Home
       <a href="arduino_home.html">View Folder</a>
     </div>
     <div class="project">
-      <h3>Ink</h3>
+      <h3>Ink</h>
       <p>Interactive narrative projects using Ink scripting.</p>
       <a href="hos_home.html">View Folder</a>
     </div>
     <div class="project">
-      <h3>Web Design</h3>
+      <h3>Web Design</h>
       <p>HTML, CSS, and JavaScript web design projects.</p>
       <a href="web_home.html">View Folder</a>
     </div>

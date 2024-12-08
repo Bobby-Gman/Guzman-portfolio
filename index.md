@@ -5,18 +5,6 @@ title: Home
 
 <link rel="stylesheet" href="styles/main.css">
 
-<header>
-  <h1>Robert Guzman's Portfolio</h1>
-  <nav>
-    <ul>
-      <li><a href="#about-me">About Me</a></li>
-      <li><a href="#python-projects">Python Projects</a></li>
-      <li><a href="#unity-scripts">Unity Scripts</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-</header>
-
 <section class="hero">
   <h2>Welcome to My Portfolio!</h2>
   <p>Showcasing my skills in game development, programming, and digital art.</p>
@@ -85,7 +73,3 @@ title: Home
     💼 <a href="https://www.linkedin.com/in/robert-guzman-designer/">LinkedIn</a>
   </p>
 </section>
-
-<footer>
-  <p>© 2024 Robert Guzman. All rights reserved.</p>
-</footer>

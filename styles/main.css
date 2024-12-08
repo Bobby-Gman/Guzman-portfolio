@@ -1,10 +1,9 @@
-/* Base Styles */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #007bff;
+  --primary-color: #0056b3;
   --secondary-color: #343a40;
-  --background-color: #f4f4f4;
+  --background-color: #e9ecef;
   --text-color: #333;
 }
 
@@ -15,6 +14,7 @@ body {
   background-color: var(--background-color);
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 h1,
@@ -23,12 +23,14 @@ h3 {
   color: var(--secondary-color);
 }
 
-/* Navigation */
 header {
   background: var(--secondary-color);
   color: #fff;
   padding: 1rem 0;
   text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 header nav ul {
@@ -55,7 +57,6 @@ header nav ul li a:hover {
   color: var(--primary-color);
 }
 
-/* Hero Section */
 .hero {
   text-align: center;
   padding: 3rem 1rem;
@@ -90,7 +91,6 @@ header nav ul li a:hover {
   transform: scale(1.05);
 }
 
-/* Sections */
 section {
   padding: 2rem;
   margin: 2rem auto;
@@ -112,7 +112,6 @@ section p {
   margin: 1rem 0;
 }
 
-/* Projects */
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -128,8 +127,10 @@ section p {
 }
 
 .project:hover {
-  transform: translateY(-5px);
+  transform: scale(1.05);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background: var(--primary-color);
+  color: #fff;
 }
 
 .project h3 {

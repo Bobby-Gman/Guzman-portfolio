@@ -65,6 +65,43 @@ title: Home
   </div>
 </section>
 
+<section id="projects">
+  <h2>Projects</h2>
+  <p>Explore my work in various fields of programming, art, and design:</p>
+  <div class="project-grid">
+    <div class="project">
+      <h3>Python</h3>
+      <p>Scripts and tools written in Python.</p>
+      <a href="python/">View Folder</a>
+    </div>
+    <div class="project">
+      <h3>Unity</h3>
+      <p>Gameplay mechanics and Unity scripts.</p>
+      <a href="unity/">View Folder</a>
+    </div>
+    <div class="project">
+      <h3>Concept Art</h3>
+      <p>Original digital art and design concepts.</p>
+      <a href="concept-art/">View Folder</a>
+    </div>
+    <div class="project">
+      <h3>Arduino</h3>
+      <p>Hardware projects and Arduino code.</p>
+      <a href="arduino/">View Folder</a>
+    </div>
+    <div class="project">
+      <h3>Ink</h3>
+      <p>Interactive narrative projects using Ink scripting.</p>
+      <a href="ink/">View Folder</a>
+    </div>
+    <div class="project">
+      <h3>Web Design</h3>
+      <p>HTML, CSS, and JavaScript web design projects.</p>
+      <a href="web-design/">View Folder</a>
+    </div>
+  </div>
+</section>
+
 <section id="contact">
   <h2>Contact</h2>
   <p>Have a project in mind or want to collaborate? Let’s connect!</p>

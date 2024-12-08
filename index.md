@@ -77,27 +77,27 @@ title: Home
     <div class="project">
       <h3>Unity</h3>
       <p>Gameplay mechanics and Unity scripts.</p>
-      <a href="unity_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/unity/unity_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Concept Art</h3>
       <p>Original digital art and design concepts.</p>
-      <a href="concept_art_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/concept-art/concept_art_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Arduino</h3>
       <p>Hardware projects and Arduino code.</p>
-      <a href="arduino_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/arduino/arduino_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Ink</h>
       <p>Interactive narrative projects using Ink scripting.</p>
-      <a href="hos_home.html">View Folder</a>
+      <a href="/Guzman-portfolio/ink/hos_home.html">View Folder</a>
     </div>
     <div class="project">
       <h3>Web Design</h>
       <p>HTML, CSS, and JavaScript web design projects.</p>
-      <a href="web_home.html">View Folder</a>
+      <a href="Guzman-portfolio/web-design/web_home.html">View Folder</a>
     </div>
   </div>
 </section>

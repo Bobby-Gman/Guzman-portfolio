@@ -147,16 +147,23 @@ section p {
   text-decoration: underline;
 }
 
-/* Footer */
 footer {
+  background: #333;
+  color: white;
   padding: 1rem;
-  background: var(--secondary-color);
-  color: #fff;
   text-align: center;
-  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Responsive Design */
+footer a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .hero h2 {
     font-size: 2rem;

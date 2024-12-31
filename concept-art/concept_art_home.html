@@ -18,6 +18,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/171/large/robert-guzman-20240906-182707.jpg?1733618829"
             alt="Initial pencil sketch player character Version 1"
+            style="width: 50%"
           />
           <p>Initial pencil sketch player character Version 1</p>
         </div>
@@ -25,6 +26,7 @@
           <img
             src="https://cdna.artstation.com/p/assets/images/images/082/674/178/large/robert-guzman-base-character-sketch.jpg?1733618852"
             alt="colored line art player character Version 1"
+            style="width: 50%"
           />
           <p>colored line art player character Version 1</p>
         </div>
@@ -32,6 +34,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/187/large/robert-guzman-printer-boi-sketch.jpg?1733618882"
             alt="Player character body variation Version 2 Printer"
+            style="width: 50%"
           />
           <p>Player character body variation Version 2 Printer</p>
         </div>
@@ -39,6 +42,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/181/large/robert-guzman-big-boy-sketch.jpg?1733618863"
             alt="Player character body variation Version 2 Bulk"
+            style="width: 50%"
           />
           <p>Player character body variation Version 2 Bulk</p>
         </div>
@@ -46,6 +50,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/173/large/robert-guzman-20240918-091047.jpg?1733618836"
             alt="Player character Version 3"
+            style="width: 50%"
           />
           <p>Player character Version 3</p>
         </div>
@@ -53,6 +58,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/183/large/robert-guzman-illustration3.jpg?1733618879"
             alt="Initial Home screen sketch"
+            style="width: 50%"
           />
           <p>Initial Home screen sketch</p>
         </div>
@@ -60,6 +66,7 @@
           <img
             src="https://cdna.artstation.com/p/assets/images/images/082/674/188/large/robert-guzman-siuhgpzshgzs.jpg?1733618894"
             alt="Initial Home screen color testing"
+            style="width: 50%"
           />
           <p>Initial Home screen color testing</p>
         </div>
@@ -67,6 +74,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/263/large/robert-guzman-20241110-140630.jpg?1733619086"
             alt="Player character Version 4 Overworld"
+            style="width: 50%"
           />
           <p>Player character Version 4 Overworld</p>
         </div>
@@ -74,6 +82,7 @@
           <img
             src="https://cdna.artstation.com/p/assets/images/images/082/674/182/large/robert-guzman-illustration2.jpg?1733618874"
             alt="Player character combat design sketch"
+            style="width: 50%"
           />
           <p>Player character combat design sketch</p>
         </div>
@@ -81,6 +90,7 @@
           <img
             src="https://cdnb.artstation.com/p/assets/images/images/082/674/275/large/robert-guzman-mainmenufixed.jpg?1733619133"
             alt="Home screen (Beta)"
+            style="width: 50%"
           />
           <p>Home screen (Beta)</p>
         </div>
@@ -88,20 +98,38 @@
       <section class="gallery">
         <h2>Rage Rooster</h2>
         <div class="gallery-item">
-          <img src="" alt="" />
+          <img src="" alt="" style="width: 50%" />
           <p>Rage Rooster concept art 1</p>
         </div>
       </section>
       <section class="gallery">
         <h2>Slip Away Slime</h2>
         <div class="gallery-item">
-          <img src="" alt="" />
+          <img src="" alt="" style="width: 50%" />
           <p>Slip Away Slime concept art 1</p>
         </div>
       </section>
+      <div id="fullscreen-overlay" class="hidden">
+        <button id="close-btn">X</button>
+        <img id="fullscreen-img" src="" alt="Full screen image" />
+      </div>
     </main>
     <footer>
       <p>&copy; 2024 Robert Guzman. All rights reserved.</p>
     </footer>
+    <script>
+      document.querySelectorAll(".gallery-item img").forEach((img) => {
+        img.addEventListener("click", () => {
+          document.getElementById("fullscreen-img").src = img.src;
+          document
+            .getElementById("fullscreen-overlay")
+            .classList.remove("hidden");
+        });
+      });
+
+      document.getElementById("close-btn").addEventListener("click", () => {
+        document.getElementById("fullscreen-overlay").classList.add("hidden");
+      });
+    </script>
   </body>
 </html>

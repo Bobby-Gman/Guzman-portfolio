@@ -7,7 +7,7 @@ body {
 }
 
 .background-image {
-    background-image: url('https://cdnb.artstation.com/p/users/avatars/008/299/825/large/382b95d5d5983e40b34a8583a72fe71c.jpg?1733506347');
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/082/673/716/large/robert-guzman-packmaster-dsquare.jpg?1733617228');
     background-size: cover;
     height: 1500px;
     display: flex;
@@ -41,7 +41,7 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url('https://cdna.artstation.com/p/assets/images/images/067/992/294/large/robert-guzman-ahtgjnm.jpg?1696731428');
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/082/673/725/large/robert-guzman-screenshot-338.jpg?1733617333');
     background-size: cover;
     z-index: -1;
 }
